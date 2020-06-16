@@ -90,5 +90,13 @@ footer li {
 }
 
 #greeting {
-	color: rgb();
+	color: rgb(17, 138, 84);
+}
+
+#name {
+	color: rgb(189, 55, 45);
+}
+
+#credit {
+	color: rgb(39, 85, 163);
 }
